@@ -1,0 +1,160 @@
+{
+    "school": {
+        "id": 1,
+        "name": "E. E. P. G. teacher Armando Rizzo",
+        "teacher": [
+            {
+                "id": 1,
+                "name": "Adalberto Nobrega de Almeida",
+                "quizzes": [
+                    {
+                        "id": 1,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 1?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio1.mp3"
+                    },
+                    {
+                        "id": 2,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 2?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio2.mp3"
+                    },
+                    {
+                        "id": 3,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 3?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio3.mp3"
+                    },
+                    {
+                        "id": 4,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 4?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio4.mp3"
+                    },
+                    {
+                        "id": 5,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 5?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio5.mp3"
+                    },
+                    {
+                        "id": 6,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 6?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio6.mp3"
+                    },
+                    {
+                        "id": 7,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 7?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio7.mp3"
+                    },
+                    {
+                        "id": 8,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 38?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio8.mp3"
+                    },
+                    {
+                        "id": 9,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 9?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio9.mp3"
+                    },
+                    {
+                        "id": 10,
+                        "id_teacher": 1,
+                        "quiz": "Texto referente a quiz 10?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio10.mp3"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Cristina de Fatima Oliveira",
+                "quizzes": [
+                    {
+                        "id": 1,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 1?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio1.mp3"
+                    },
+                    {
+                        "id": 2,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 2?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio2.mp3"
+                    },
+                    {
+                        "id": 3,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 3?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio3.mp3"
+                    },
+                    {
+                        "id": 4,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 4?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio4.mp3"
+                    },
+                    {
+                        "id": 5,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 5?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio5.mp3"
+                    },
+                    {
+                        "id": 6,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 6?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio6.mp3"
+                    },
+                    {
+                        "id": 7,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 7?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio7.mp3"
+                    },
+                    {
+                        "id": 8,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 38?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio8.mp3"
+                    },
+                    {
+                        "id": 9,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 9?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio9.mp3"
+                    },
+                    {
+                        "id": 10,
+                        "id_teacher": 2,
+                        "quiz": "Texto referente a quiz 10?",
+                        "correct": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio10.mp3"
+                    }
+                ]
+            }
+        ]
+    }
+}
