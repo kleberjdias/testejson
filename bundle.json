@@ -1,0 +1,160 @@
+{
+    "escola": {
+        "id": 1,
+        "nome": "E. E. P. G. Professor Armando Rizzo",
+        "professor": [
+            {
+                "id": 1,
+                "nome": "Adalberto Nobrega de Almeida",
+                "questoes": [
+                    {
+                        "id": 1,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 1?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio1.mp3"
+                    },
+                    {
+                        "id": 2,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 2?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio2.mp3"
+                    },
+                    {
+                        "id": 3,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 3?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio3.mp3"
+                    },
+                    {
+                        "id": 4,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 4?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio4.mp3"
+                    },
+                    {
+                        "id": 5,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 5?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio5.mp3"
+                    },
+                    {
+                        "id": 6,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 6?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio6.mp3"
+                    },
+                    {
+                        "id": 7,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 7?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio7.mp3"
+                    },
+                    {
+                        "id": 8,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 38?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio8.mp3"
+                    },
+                    {
+                        "id": 9,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 9?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio9.mp3"
+                    },
+                    {
+                        "id": 10,
+                        "id_prof": 1,
+                        "pergunta": "Texto referente a pergunta 10?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio10.mp3"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "nome": "Cristina de Fatima Oliveira",
+                "questoes": [
+                    {
+                        "id": 1,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 1?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio1.mp3"
+                    },
+                    {
+                        "id": 2,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 2?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio2.mp3"
+                    },
+                    {
+                        "id": 3,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 3?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio3.mp3"
+                    },
+                    {
+                        "id": 4,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 4?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio4.mp3"
+                    },
+                    {
+                        "id": 5,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 5?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio5.mp3"
+                    },
+                    {
+                        "id": 6,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 6?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio6.mp3"
+                    },
+                    {
+                        "id": 7,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 7?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio7.mp3"
+                    },
+                    {
+                        "id": 8,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 38?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio8.mp3"
+                    },
+                    {
+                        "id": 9,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 9?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio9.mp3"
+                    },
+                    {
+                        "id": 10,
+                        "id_prof": 2,
+                        "pergunta": "Texto referente a pergunta 10?",
+                        "resposta": 0,
+                        "url_audio": "wwww.ulrdoaudio.com.br/auidio10.mp3"
+                    }
+                ]
+            }
+        ]
+    }
+}
